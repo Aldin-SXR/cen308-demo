@@ -1,0 +1,16 @@
+{
+    "name": "aldin-sxr/lab6",
+    "autoload": {
+        "psr-4": {
+            "AldinSxr\\Lab6\\": "src/"
+        }
+    },
+    "description": "Demo app.",
+    "authors": [
+        {
+            "name": "Aldin Kovačević",
+            "email": "aldin.kovacevic.97@gmail.com"
+        }
+    ],
+    "require": {}
+}
