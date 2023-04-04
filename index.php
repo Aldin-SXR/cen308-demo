@@ -1,3 +1,3 @@
 <?php
 
-echo "Hello from Software Engineering. :)\n";
+echo "Hello from Software Engineering. :(\n";
